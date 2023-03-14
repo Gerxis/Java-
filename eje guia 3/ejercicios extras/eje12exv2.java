@@ -9,7 +9,7 @@ package guia3;
  *
  * @author ALEXIS
  */
-public class eje12ex {
+public class eje12exv2 {
 
     /**
      * @param args the command line arguments
