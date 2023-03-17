@@ -33,6 +33,8 @@ public class eje4pra {
         System.out.println( primo(num));
     }
     
+    
+    //funcion 
     public static boolean primo(int num){
     boolean vali = false;
     int cont = 0 ;
@@ -44,7 +46,7 @@ public class eje4pra {
             if (cont == 0) {vali = true;}
             
         }
-        
+        //condicion para 2 
         if (num == 2) {vali = true;}
     
     
